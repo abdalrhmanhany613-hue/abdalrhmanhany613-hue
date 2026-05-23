@@ -59,6 +59,12 @@
       </a>
       <br>GitHub
     </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://www.kaggle.com/static/images/site-logo.svg" width="48" height="48" alt="Kaggle" />
+      </a>
+      <br>Kaggle
+    </td>
   </tr>
 </table>
 
